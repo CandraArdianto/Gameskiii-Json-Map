@@ -1,5 +1,4 @@
 {
-{
     "type": "FeatureCollection",
     "features": [
       {
@@ -3136,5 +3135,5 @@
           "state": "Jawa Timur"
         }
       },
-}
+    ]
 }
