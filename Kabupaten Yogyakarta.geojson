@@ -7,7 +7,7 @@
         "prov_id": 34,
         "prov_name": "DAERAH ISTIMEWA YOGYAKARTA",
         "name": "KULON PROGO",
-        "alt_name": "KABUPATEN KULON PROGO",
+        "alt_name": "Kabupaten Kulon Progo",
         "uuid": "e275e94e-eef5-4739-90ea-9cc8657027e0",
         "color": "#aaaaaa"
       },
@@ -249,7 +249,7 @@
         "prov_id": 34,
         "prov_name": "DAERAH ISTIMEWA YOGYAKARTA",
         "name": "BANTUL",
-        "alt_name": "KABUPATEN BANTUL",
+        "alt_name": "Kabupaten Bantul",
         "uuid": "47169aac-e5ee-477a-9778-523196b304ff",
         "color": "#aaaaaa"
       },
@@ -608,7 +608,7 @@
         "prov_id": 34,
         "prov_name": "DAERAH ISTIMEWA YOGYAKARTA",
         "name": "GUNUNG KIDUL",
-        "alt_name": "KABUPATEN GUNUNG KIDUL",
+        "alt_name": "Kabupaten Gunung Kidul",
         "uuid": "f13faad5-ec8a-4e19-9c86-f5161218b773",
         "color": "#aaaaaa"
       },
@@ -1091,7 +1091,7 @@
         "prov_id": 34,
         "prov_name": "DAERAH ISTIMEWA YOGYAKARTA",
         "name": "SLEMAN",
-        "alt_name": "KABUPATEN SLEMAN",
+        "alt_name": "Kabupaten Sleman",
         "uuid": "185e538b-21d4-4a09-9bbc-d5d00268bd23",
         "color": "#aaaaaa"
       },
@@ -1382,7 +1382,7 @@
         "prov_id": 34,
         "prov_name": "DAERAH ISTIMEWA YOGYAKARTA",
         "name": "KOTA YOGYAKARTA",
-        "alt_name": "KOTA YOGYAKARTA",
+        "alt_name": "Kota Yogyakarta",
         "uuid": "ce7edfd9-0c13-4ea7-916e-23c90eff5679",
         "color": "#aaaaaa"
       },
